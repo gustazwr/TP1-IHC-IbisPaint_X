@@ -8,6 +8,7 @@ Trabalho Prático 1 — Interação Humano-Computador — Engenharia de Software
 - Francisco José Pinheiro da Silva — 2253995  
 - Júlio Augusto de Almeida Ferreira Junio — 22551514  
 - Thamires Fernanda Mendes — 22552723
+- Adriano Monteiro Rolim — 22551471
 
 ## 📂 Estrutura do repositório
 - [1 - Descrição do sistema](1-descrição-sistema.md)  
