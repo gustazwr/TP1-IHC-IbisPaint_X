@@ -1,4 +1,4 @@
-# TP1-IHC-CAIXA
+# TP1-IHC-IbisPaint_X
 
 Trabalho Prático 1 — Interação Humano-Computador — Engenharia de Software
 
@@ -19,4 +19,4 @@ Trabalho Prático 1 — Interação Humano-Computador — Engenharia de Software
 
 ## 📝 Resumo do sistema
 Breve descrição aqui:  
-> O sistema avaliado é o **Aplicativo CAIXA**, utilizado para serviços bancários digitais. Ele permite que os usuários realizem operações como consulta de saldo, transferências, pagamentos de boletos e gerenciamento de contas diretamente pelo celular, de forma prática e acessível.
+> O sistema avaliado é o **Aplicativo IbisPaint x**, sendo um aplicativo de desenho digital para Android e iOS, voltado a artistas iniciantes e avançados. Ele oferece recursos como pincéis personalizáveis, camadas, filtros, modos de mesclagem e gravação do processo de criação em vídeo. O app funciona no modelo freemium, com versão gratuita e opção paga (Prime), sendo uma das ferramentas de ilustração mais populares em dispositivos móveis.
