@@ -22,3 +22,6 @@ O **Ibis Paint X** pertence ao domínio dos **aplicativos de desenho digital** e
 5. **Configurações/Assinatura Prime** – gerenciamento de preferências, acesso à versão paga e tutoriais de uso.  
 
 ## Imagem (Screenshot)
+
+![Tela inicial do Ibis Paint X](C50BF550-A459-497A-96C8-B23BFCF99FD1.jpeg)
+
