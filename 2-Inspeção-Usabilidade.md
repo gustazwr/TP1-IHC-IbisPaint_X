@@ -1,5 +1,23 @@
 # Inspeção de Usabilidade – Ibis Paint X
 
+
+# Etapa 1 - Detecção
+XXXXXXXXXXXXX
+
+
+
+# Etapa 2 - Coleção
+XXXXXXXXXXXXX
+
+
+
+# Etapa 3 - Discriminação
+ XXXXXXXXXXXX
+
+
+
+
+
 ## Lista Limpa (Consolidada)
 
 | ID   | Localização                 | Problema (resumo)                              | Heurística violada | Recomendações de correção                                    | Benefício esperado |
