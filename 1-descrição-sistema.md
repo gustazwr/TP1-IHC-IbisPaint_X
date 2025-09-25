@@ -23,5 +23,9 @@ O **Ibis Paint X** pertence ao domínio dos **aplicativos de desenho digital** e
 
 ## Imagem (Screenshot)
 
-![Tela inicial do Ibis Paint X](C50BF550-A459-497A-96C8-B23BFCF99FD1.jpeg)
+<img src="https://github.com/user-attachments/assets/d350faf2-ec02-4f60-84f4-180178d829e3" alt="Tela inicial do Ibis Paint X" width="200"/>
+
+
+
+
 
