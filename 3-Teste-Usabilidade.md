@@ -29,4 +29,9 @@ O **Ibis Paint X** na versão 13.1.12 para dispositivos mobile.
 
 [P08-TABELA](https://www.notion.so/27c6b4a8653980cfa58ffae1c417fd86?v=27c6b4a86539819793d6000c6e423598&source=copy_link)
 
+## RESUMO POR PARTICIPANTE
+
+[RESUMO POR PARTICIPANTE-TABELA](https://www.notion.so/27c6b4a86539801ca652dc10119ba569?v=27c6b4a865398033b437000c03abeeda&source=copy_link)
+
+
 
