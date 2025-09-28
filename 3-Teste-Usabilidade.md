@@ -1,10 +1,21 @@
 # Teste de Usabilidade – Ibis Paint X
 
+
+
 ## Produto
 O **Ibis Paint X** na versão 13.1.12 para dispositivos mobile.
 
 ## Objetivo do teste
+Identificar falhas de usabilidade em diversas áreas do sistema, para isso foram feitas 10 tarefas que se enquadram para   
+serem testadas nas diversas telas do sistema.
 
+## Descrição do teste
+O teste consistiu em 10 tarefas aplicadas a 8 participantes.  
+Ocorreu no dia 26/09/2025 na sala de aula 202 A na Ufam de forma presencial onde a sessão durou cerca de uma hora e meia.  
+Os participantes foram orientados a chegar no periódo de 9 as 11 da manhã, cada participante tendo um facilitador para guiar o teste, onde o facilitador só instruiu o partcipante a assinar o TCLE, disponibilizou o dispositivo com o sistema para o teste e as tarefas a serem realizadas.
+Os equipamentos utilizados pelo partcipante foram somente o dispositivo com o sistema já disponibilizado pelo facilitador e o papel com as tarefas, já os equipamentos necessários para o facilitador foram cronometro para o tempo das tarefas e uma tabela para anotar os dados colhidos do teste.
+
+### Resumo
 
 ## Teste piloto
 
@@ -36,8 +47,37 @@ O **Ibis Paint X** na versão 13.1.12 para dispositivos mobile.
 
 ## CONSOLIDAÇÃO POR TAREFA
 
+[CONSOLIDAÇÃO POR TAREFA-TABELA](https://www.notion.so/27c6b4a865398085960bc719a8071e1b?v=27c6b4a8653980b3949a000c57cac8a8&source=copy_link)
 
-## RELATOS RESULTADOS
+## RELATO DOS RESULTADOS:
+
+### Análise Quantitativa
+Taxa de Sucessos:  
+
+Taxa de erros:
+
+Taxa de Tempo:
+
+Taxa de ajuda:
+
+### SUS:
+
+Questionário SUS aplicado aos participantes logo após a conclusão das tarefas, foi aplicado utilizando um documento em html que já calculou o score logo após de feito.  
+
+  
+Score dos participantes:  
+P01- 50.0  
+P02- 50.0  
+P03- 40.0  
+P04- 2.5  
+P05- 30.0  
+P06- 22.5  
+P07- 22.5  
+P08- 30.0
+
+
+### Perguntas Obrigatórias:
+
 
 
 
