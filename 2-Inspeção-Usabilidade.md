@@ -3,6 +3,8 @@
 
 # Etapa 1 - Detecção
 [Tabela de detecção - Eduardo](https://www.notion.so/27ae5c8c17aa81e0a52ace9f19c996c4?v=27ae5c8c17aa81fab37f000cf6418136&source=copy_link)
+[Tabela de detecção - Francisco](https://www.notion.so/278e5c8c17aa81f59636f43d99b30d54?v=278e5c8c17aa8137a0ee000ccb3b2a92&source=copy_link)
+
 
 
 
