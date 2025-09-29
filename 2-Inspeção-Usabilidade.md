@@ -22,10 +22,18 @@
 
 # Etapa 4 - Lista Limpa (Consolidada)
 
-| ID   | Localização                 | Problema (resumo)                              | Heurística violada | Recomendações de correção                                    | Benefício esperado |
-|------|-----------------------------|------------------------------------------------|--------------------|-------------------------------------------------------------|-------------------|
-| L-01 | Novo Projeto → Configuração | Muitas opções técnicas (tamanho, DPI) confundem iniciantes | 8. Estética e design minimalista | Criar perfis pré-definidos: “Básico” e “Avançado”. | Facilita início para usuários novatos |
-| L-02 | Exportar desenho            | Barra de progresso pouco visível                | 1. Visibilidade do status | Usar barra de progresso destacada com animação. | Feedback claro, menos incerteza |
-| L-03 | Fechar projeto              | Aviso de salvar pouco chamativo                 | 5. Prevenção de erros | Caixa de diálogo com opções “Salvar / Não salvar / Cancelar”. | Evita perda de trabalho acidental |
+# Lista Limpa – Inspeção de Usabilidade
 
+| ID   | Localização                     | Problema (resumo)                                                                 | Heurística Violada                      | Recomendações de Correção                                             | Benefício Esperado                                       |
+|------|---------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------|
+| R-28 | Minha galeria > editar > letra  | Não há barra de pesquisa para encontrar fontes rapidamente                        | Flexibilidade e Eficiência de Uso        | Adicionar campo de busca/filtro para fontes                           | Facilita a localização rápida e melhora a eficiência     |
+| R-19 | Tela de configurações           | Falta de opções completas de personalização da interface                          | Controle e liberdade do Usuário          | Incluir mais opções de personalização (tema, layout, atalhos)          | Usuário tem mais autonomia e controle no uso             |
+| R-06 | Tela de edição                  | Refazer/desfazer não apresenta histórico de ações                                 | Controle e liberdade do Usuário          | Implementar histórico de ações visível                                | Dá mais liberdade e reduz erros de edição                |
+| R-07 | Menu secundário (camadas)       | Exclusão de camadas sem confirmação pode causar perda de trabalho                 | Prevenção de Erros                       | Incluir mensagem de confirmação antes de excluir camada                | Evita perdas acidentais de conteúdo                      |
+| R-16 | Menu de transformação escalar   | Alterações ou importações de imagem podem ser perdidas se app for minimizado      | Prevenção de Erros                       | Implementar salvamento temporário ou aviso de confirmação              | Reduz frustração e perda de trabalho                     |
+| R-09 | Tela de busca                   | Busca pode ser iniciada sem texto, resultando em tela vazia sem explicação        | Prevenção de Erros                       | Bloquear busca vazia ou exibir mensagem explicativa                    | Evita confusão e melhora a clareza do sistema            |
+| R-10 | Tela de busca                   | Ausência de busca avançada limita a localização de conteúdos específicos          | Flexibilidade e Eficiência de Uso        | Adicionar filtros de busca (por tipo, data, categoria)                 | Usuário encontra mais rápido o que procura               |
+| R-01 | Tela de busca                   | Usuários não sabem se a busca está em andamento (falta de feedback visual)        | Visibilidade do Status do Sistema         | Adicionar indicador de carregamento (loading/spinner)                  | Aumenta a transparência e reduz ansiedade do usuário     |
+| R-03 | Tipo de letra                   | Lista de fontes apenas em ordem alfabética, sem busca ou filtro                   | Flexibilidade e Eficiência de Uso        | Incluir filtros/categorias e barra de pesquisa                         | Aumenta a eficiência e reduz esforço do usuário          |
+| R-05 | Tela inicial                    | Tela inicial com excesso de ferramentas visíveis sobrecarrega usuários iniciantes | Estética e Design Minimalista            | Organizar ícones em menus agrupados ou guias                           | Reduz sobrecarga visual e melhora a experiência inicial  |
 
