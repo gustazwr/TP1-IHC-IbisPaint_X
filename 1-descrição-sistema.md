@@ -28,11 +28,13 @@ O **Ibis Paint X** pertence ao domínio dos **aplicativos de desenho digital** e
 # Apresentação do Grupo e Distribuição das Tarefas
 
 ## Integrantes
-- A1: Fulano de Tal — #20250001  
-- A2: Beltrano da Silva — #20250002  
-- A3: Ciclana Souza — #20250003  
-- A4: João Pereira — #20250004  
-
+- Luiz Gustavo Barros da Silva — 22551472  
+- Eduardo Tundis Carvalho Vilaça — 22550445  
+- Francisco José Pinheiro da Silva — 2253995  
+- Júlio Augusto de Almeida Ferreira Junio — 22551514  
+- Thamires Fernanda Mendes — 22552723
+- Adriano Monteiro Rolim — 22551471
+  
 ## Lista de Tarefas
 - **T1** – Descrição do sistema e perfil de usuários  
 - **T2** – Inspeção heurística (detecção individual, coleção, discriminação, lista limpa)  
