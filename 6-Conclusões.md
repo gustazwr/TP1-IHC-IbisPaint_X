@@ -68,6 +68,7 @@ Elas estão disponíveis nestes links:
 - [Reflexão-Eduardo](https://docs.google.com/document/d/1iX_wjEtxcEpozDzfgqaNIjKyNHRmdWT3Em-F_nxQ8Y4/edit?usp=sharing)
 - [Reflexão-Thamires](https://docs.google.com/document/d/1tpRVo9OtdoE3maAYEdYdTcZWlvQZv63Ei8Bv5hIKNtM/edit?usp=sharing)
 - [Reflexão-Francisco](https://docs.google.com/document/d/1Lq6LlKj6ushTAvSgJrhjmiUSMAwkf2gF9CXuLmHcaDw/edit?usp=sharing)
+- [Reflexão-Luiz Gustavo](https://docs.google.com/document/d/18fbPAUt-BEyOk1nUSe7U6OteQ2J8yETnqG57hCq6qsY/edit?usp=sharing)
 
 ---
 
