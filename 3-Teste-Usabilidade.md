@@ -13,7 +13,34 @@ serem testadas nas diversas telas do sistema.
 O teste consistiu em 10 tarefas aplicadas a 8 participantes.  
 Ocorreu no dia 26/09/2025 na sala de aula 202 A na Ufam de forma presencial onde a sessão durou cerca de uma hora e meia.  
 Os participantes foram orientados a chegar no periódo de 9 as 11 da manhã, cada participante tendo um facilitador para guiar o teste, onde o facilitador só instruiu o partcipante a assinar o TCLE, disponibilizou o dispositivo com o sistema para o teste e as tarefas a serem realizadas.
-Os equipamentos utilizados pelo partcipante foram somente o dispositivo com o sistema já disponibilizado pelo facilitador e o papel com as tarefas, já os equipamentos necessários para o facilitador foram cronometro para o tempo das tarefas e uma tabela para anotar os dados colhidos do teste.
+Os equipamentos utilizados pelo partcipante foram somente o dispositivo com o sistema já disponibilizado pelo facilitador e o papel com as tarefas, já os equipamentos necessários para o facilitador foram cronometro para o tempo das tarefas e uma tabela para anotar os dados colhidos do teste.  
+
+## Tarefas
+
+ LISTA DE TAREFAS
+
+
+
+Tarefa 1: Crie uma nova tela, com o tamanho 640 X 480.  
+
+Tarefa 2: Mude o tipo de pincel para "Caneta de desenho" e troque sua espessura para 10. Rabisque na tela e apague usando a borracha; após isso, anule o traço do apagador.  
+
+Tarefa 3: Usando as ferramentas de desenho, desenhe um retângulo. Crie uma nova camada e desenhe um círculo no meio do retângulo, também usando a ferramenta de desenho. Oculte a primeira camada.  
+
+Tarefa 4: Importe a imagem de melancia da galeria, crie uma nova camada e utilize a lata de tinta para colorir o seu interior. Una as duas camadas. Guarde o desenho em formato PNG.  
+
+Tarefa 5: Importe o desenho salvo anteriormente. Aplique o filtro "Aberração Cromática (Ampliação)". Ainda no filtro, coloque a Ordem das Cores para B-R-G. Insira o texto "Melância" em qualquer posição da tela, altere o tipo de letra para "Coiny" e amplie, a deixando no meio da tela.  
+
+Tarefa 6: Remova o fundo da imagem, usando a ferramenta "Varinha Mágica" com a borracha na espessura 1000, remova a seleção da varinha mágica e salve a imagem em PNG e transparente.  
+
+Tarefa 7: Crie uma nova tela, dessa vez na opção de animação, coloque 2 frames por segundo. Use as ferramentas de desenho e faça um retângulo. Crie mais um frame e use a ferramenta para desenhar um círculo. Crie mais um frame, utilize a ferramenta de desenho e use a linha e faça um triângulo. Exporte a animação como vídeo.  
+
+Tarefa 8: Monte uma HQ ou um mangá, usando as telas pré-formadas do app e desenhe um boneco de palito, usando as ferramentas de desenhos.  
+
+Tarefa 9: Importe novamente a imagem da melancia em preto e branco. Clone a camada com a imagem importada, pinte novamente a melancia, usando a varinha mágica para colorir somente o interior da melancia com o pincel na espessura 30. Remova a seleção da varinha mágica. Sobreponha a camada da melancia colorida com a camada da melancia em preto e branco, alterando a ordem das camadas.  
+
+Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com a varinha mágica e a borracha na espessura 1000. Remova a seleção da varinha mágica. Importe a imagem da melancia colorida e sobreponha a camada com o rosto sobre a melancia. Ajuste o rosto à melancia. Una as duas camadas, inverta a camada na horizontal e inverta as cores da camada.
+
 
 ### Resumo
 
