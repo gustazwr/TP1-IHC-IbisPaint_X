@@ -24,6 +24,8 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 #### 3.1.2 Dados 
 
+<img width="669" height="484" alt="Captura de tela 2025-09-29 192814" src="https://github.com/user-attachments/assets/941c22de-13d9-4803-ba43-88c1cfd99cb7" />
+
 
 ### 3.2 Gráfico de Médias das Escalas 
 
