@@ -14,13 +14,8 @@
 
 [Tabela de detecção - Thamires](https://www.notion.so/27ce5c8c17aa803cbb0ac26785c41380?v=27ce5c8c17aa8095bbbf000cd009dc7d&source=copy_link)
 
-
-
-
-
-
 # Etapa 2 - Coleção
-XXXXXXXXXXXXX
+[Coleção de requisitos](https://www.notion.so/27be5c8c17aa80ce8221c2fbbc98f32b?v=27be5c8c17aa800fa677000c93ead6f1&source=copy_link)
 
 
 
