@@ -12,6 +12,8 @@
 
 [Tabela de detecção - Adriano](https://www.notion.so/27de5c8c17aa81bc8d0bc7b5cce1d8e7?v=27de5c8c17aa818c9942000c80258ec8&source=copy_link)
 
+[Tabela de detecção - Thamires](https://www.notion.so/27ce5c8c17aa803cbb0ac26785c41380?v=27ce5c8c17aa8095bbbf000cd009dc7d&source=copy_link)
+
 
 
 
