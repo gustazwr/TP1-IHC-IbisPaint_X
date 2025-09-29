@@ -42,14 +42,12 @@ Tarefa 9: Importe novamente a imagem da melancia em preto e branco. Clone a cama
 Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com a varinha mágica e a borracha na espessura 1000. Remova a seleção da varinha mágica. Importe a imagem da melancia colorida e sobreponha a camada com o rosto sobre a melancia. Ajuste o rosto à melancia. Una as duas camadas, inverta a camada na horizontal e inverta as cores da camada.
 
 
-### 5.Resumo
-
 ## Teste piloto
 
 
 
-
-## TABELAS- TESTES DOS PARTICIPANTES
+--- 
+## TABELAS- Testes dos participantes
 
 [P01-TABELA](https://www.notion.so/27b6b4a865398008b7f5c2350378910e?v=27b6b4a8653980ab9cce000cc03eb519&source=copy_link)
 
@@ -67,14 +65,19 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 
 [P08-TABELA](https://www.notion.so/27c6b4a8653980cfa58ffae1c417fd86?v=27c6b4a86539819793d6000c6e423598&source=copy_link)
 
+--- 
+
 ## RESUMO POR PARTICIPANTE
 
 [RESUMO POR PARTICIPANTE-TABELA](https://www.notion.so/27c6b4a86539801ca652dc10119ba569?v=27c6b4a865398033b437000c03abeeda&source=copy_link)
 
+---
 
 ## CONSOLIDAÇÃO POR TAREFA
 
 [CONSOLIDAÇÃO POR TAREFA-TABELA](https://www.notion.so/27c6b4a865398085960bc719a8071e1b?v=27c6b4a8653980b3949a000c57cac8a8&source=copy_link)
+
+---
 
 ## RELATO DOS RESULTADOS:
 
