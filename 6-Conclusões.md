@@ -66,7 +66,7 @@ Elas estão disponíveis nestes links:
 
 - [Reflexão-Adriano](https://docs.google.com/document/d/1GI4OgP1LE9iFmC5BvAbaw6sdFFzJIVLSnUVfjM8lr64/edit?usp=sharing)
 - [Reflexão-Eduardo](https://docs.google.com/document/d/1iX_wjEtxcEpozDzfgqaNIjKyNHRmdWT3Em-F_nxQ8Y4/edit?usp=sharing)
-- [Reflexão A3](https://docs.google.com/document/d/xxxxx)
+- [Reflexão-Thamires](https://docs.google.com/document/d/1tpRVo9OtdoE3maAYEdYdTcZWlvQZv63Ei8Bv5hIKNtM/edit?usp=sharing)
 - [Reflexão-Francisco](https://docs.google.com/document/d/1Lq6LlKj6ushTAvSgJrhjmiUSMAwkf2gF9CXuLmHcaDw/edit?usp=sharing)
 
 ---
