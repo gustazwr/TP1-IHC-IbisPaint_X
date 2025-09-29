@@ -2,7 +2,8 @@
 
 
 # Etapa 1 - Detecção
-XXXXXXXXXXXXX
+[Tabela de detecção - Eduardo](https://www.notion.so/27ae5c8c17aa81e0a52ace9f19c996c4?v=27ae5c8c17aa81fab37f000cf6418136&source=copy_link)
+
 
 
 
