@@ -22,7 +22,7 @@
 
 # Etapa 4 - Lista Limpa (Consolidada)
 
-# Lista Limpa – Inspeção de Usabilidade
+## Lista Limpa – Inspeção de Usabilidade
 
 | ID   | Localização                     | Problema (resumo)                                                                 | Heurística Violada                      | Recomendações de Correção                                             | Benefício Esperado                                       |
 |------|---------------------------------|-----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------|
