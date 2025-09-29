@@ -46,23 +46,19 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 
 
-- **Atratividade**	Avaliação negativa (média abaixo de -0,5). O sistema não foi considerado visualmente ou emocionalmente agradável.  
+- **Atratividade**	Avaliação negativa (média abaixo de -0,5). Os particpantes não consideraram o sistema visualmente ou emocionalmente agradável.  
 
-- **Transparência**	Também com avaliação negativa (média próxima de -0,75). Usuários sentiram dificuldade de entender como o sistema funciona.  
+- **Transparência**	Com a pior avaçiação dentre as escalas(média próxima de -1,3). Indica dificuldade em entender como o sistema funciona.  
 
-- **Eficiência**	A média é próxima de 0, indicando uma avaliação neutra (nem ruim, nem boa). O sistema cumpre a função, mas não com destaque.  
+- **Eficiência**	A média é próxima de 0 se destacando em relação aos dois últimos porém ainda ruim, indica que os usuários não sentiram que o sistema cumpre com sua função da forma desejada. 
 
-- **Controle**	Avaliação levemente melhor que eficiência, mas ainda na faixa neutra. Usuários sentiram algum controle, mas não plenamente.  
+- **Controle**	Avaliação levemente melhor que eficiência se destcando como a maior das escalas, mas ainda na faixa ruim. Usuários sentiram algum controle, mas longe de ser controle desejado.  
 
-- **Estimulação**	A pior pontuação média (abaixo de -0,8). O sistema foi considerado pouco estimulante ou entediante.  
+- **Estimulação**	A média da escala volta a cair mais em estimulação (abaixo de -0,8). O sistema foi considerado possivelmente entediante e que não proporciona uma experiência que dê vontade de continuar o que está sendo feito.  
 
-- **Inovação**	Avaliação negativa, mas um pouco melhor que "Estimulação" e "Atratividade". O sistema não foi percebido como moderno ou inovador.  
+- **Inovação**	Avaliação negativa, porém no contexxto faz parte das escalas mais elevadas. Indica que o sistema não foi considerado algo "novo" ou "moderno" podendo ter sido associado a "mais do mesmo" pelos participantes.  
 
 ---
 
 ## 4. Interpretação dos Resultados
 
-
-## 5. Considerações Finais
-
-## 6. Anexos
