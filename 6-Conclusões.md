@@ -47,7 +47,13 @@ Após a realização das quatro avaliações (Inspeção de Usabilidade, Teste d
 - Melhorar feedback do sistema em ações críticas.  
 - Revisar rótulos de botões e menus para torná-los mais intuitivos.  
 - Incluir mensagens de ajuda/documentação em fluxos problemáticos.  
-- Ajustar design para reduzir rupturas de comunicação observadas.  
+- Ajustar design para reduzir rupturas de comunicação observadas.
+- Incluir um sistema de pesquisa universal do sistema.
+- Um ensino de tutorial do sistema mais explicíto.
+- Sistema de direção do uso das ferramentas.
+- Torna-lo o sistema mais atraente, com atualizações constantemente.
+  
+    
 
 ## 6.2 Evidências e Documentos
 - [Tabela consolidada de problemas (Google Sheets)](https://docs.google.com/spreadsheets/d/xxxxx)
