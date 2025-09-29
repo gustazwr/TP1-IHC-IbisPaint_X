@@ -2,7 +2,7 @@
 
 ## 1. Descrição
 
-O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, utilizando o questionário de forma impressa.
+O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, utilizando o questionário de forma impressam e dps da coleta dos questionários foi utilizada uma planilha que calcúla os resultados do teste.
 
 ---
 
