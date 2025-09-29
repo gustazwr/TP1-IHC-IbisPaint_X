@@ -8,10 +8,10 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 ## 2. Metodologia
 
-- **Ferramenta utilizada:** UEQ (User Experience Questionnaire)
-- **Número de participantes:** [número de respondentes]
+- **Ferramenta utilizada:** Planilha UEQ (User Experience Questionnaire)
+- **Número de participantes:** 8
 - **Momento da aplicação:** Após a execução do teste de usabilidade
-- **Formato:** Questionário com 26 itens distribuídos em 6 dimensões
+- **Formato:** De forma impressa e presencialmente
 
 ---
 
