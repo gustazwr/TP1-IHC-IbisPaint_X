@@ -20,7 +20,7 @@
 # Etapa 3 - Discriminação
 [Discriminação](https://www.notion.so/27de5c8c17aa80c98f59ef967bbf3678?v=27de5c8c17aa8182ab2a000ca9d3fbf4&source=copy_link)
 
-# Lista Limpa (Consolidada)
+# Etapa 4 - Lista Limpa (Consolidada)
 
 | ID   | Localização                 | Problema (resumo)                              | Heurística violada | Recomendações de correção                                    | Benefício esperado |
 |------|-----------------------------|------------------------------------------------|--------------------|-------------------------------------------------------------|-------------------|
