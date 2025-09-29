@@ -107,7 +107,8 @@ P08- 30.0
 
 
 ### Perguntas Obrigatórias:
-Mapeamento das respostas das perguntas obrigatórias:(https://www.notion.so/27d8a7d67aa88064a8ebc689fd1d4fb9?v=27d8a7d67aa8801f919d000cccc2f56d&source=copy_link)
+Mapeamento das respostas das perguntas obrigatórias:
+(https://www.notion.so/27d8a7d67aa88064a8ebc689fd1d4fb9?v=27d8a7d67aa8801f919d000cccc2f56d&source=copy_link)
 
 
 
