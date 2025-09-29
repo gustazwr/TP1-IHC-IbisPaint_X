@@ -81,5 +81,6 @@ O Trabalho Prático 1 foi essencial para:
 - Consolidar a visão crítica sobre usabilidade, experiência do usuário e comunicabilidade.
 - Utilização de novas ferramentas que foram necessarias para formalizar o trabalho.
 
+
 **Em resumo:** o sistema avaliado cumpre parcialmente seu objetivo, mas apresenta barreiras relevantes que prejudicam a experiência. As recomendações propostas visam reduzir erros, melhorar a clareza e aumentar a satisfação do usuário final.
 
