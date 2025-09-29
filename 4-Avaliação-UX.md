@@ -22,15 +22,19 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 <img width="679" height="611" alt="Captura de tela 2025-09-29 133745" src="https://github.com/user-attachments/assets/ed991685-d28e-4285-a9e8-55b7ba762ba7" />
 
+#### 3.1.2 Dados 
 
 
-
-### 3.1 Gráfico de Médias das Escalas 
+### 3.2 Gráfico de Médias das Escalas 
 
 <img width="407" height="240" alt="Captura de tela 2025-09-28 092526" src="https://github.com/user-attachments/assets/bc0a9dde-6c3e-4242-b9c8-29d4fb98779c" />
 
+#### 3.2.1 Dados
 
-### 3.2 Gráfico de Benchmark
+<img width="289" height="127" alt="Captura de tela 2025-09-28 092507" src="https://github.com/user-attachments/assets/c315223b-b0c9-4e89-8dc5-98ed875367f5" />
+
+
+### 3.3 Gráfico de Benchmark
 
 <img width="693" height="215" alt="Captura de tela 2025-09-28 092407" src="https://github.com/user-attachments/assets/5f84a4ea-f9b0-4778-8506-8e74c9491b3b" />
 
