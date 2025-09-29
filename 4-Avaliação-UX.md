@@ -2,6 +2,7 @@
 
 ## 1. Descrição
 
+O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, utilizando o question´srio de forma impressa
 
 ---
 
