@@ -17,14 +17,8 @@
 # Etapa 2 - Coleção
 [Coleção de requisitos](https://www.notion.so/27be5c8c17aa80ce8221c2fbbc98f32b?v=27be5c8c17aa800fa677000c93ead6f1&source=copy_link)
 
-
-
 # Etapa 3 - Discriminação
- XXXXXXXXXXXX
-
-
-
-
+[Discriminação](https://www.notion.so/27de5c8c17aa80c98f59ef967bbf3678?v=27de5c8c17aa8182ab2a000ca9d3fbf4&source=copy_link)
 
 ## Lista Limpa (Consolidada)
 
