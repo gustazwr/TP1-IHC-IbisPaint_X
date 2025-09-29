@@ -28,12 +28,12 @@ O **Ibis Paint X** pertence ao domínio dos **aplicativos de desenho digital** e
 # Apresentação do Grupo e Distribuição das Tarefas
 
 ## Integrantes
-- Luiz Gustavo Barros da Silva — 22551472  
-- Eduardo Tundis Carvalho Vilaça — 22550445  
-- Francisco José Pinheiro da Silva — 2253995  
-- Júlio Augusto de Almeida Ferreira Junio — 22551514  
-- Thamires Fernanda Mendes — 22552723
-- Adriano Monteiro Rolim — 22551471
+- A1: Luiz Gustavo Barros da Silva — 22551472  
+- A2: Eduardo Tundis Carvalho Vilaça — 22550445  
+- A3: Francisco José Pinheiro da Silva — 2253995  
+- A4: Júlio Augusto de Almeida Ferreira Junio — 22551514  
+- A5: Thamires Fernanda Mendes — 22552723
+- A6: Adriano Monteiro Rolim — 22551471
   
 ## Lista de Tarefas
 - **T1** – Descrição do sistema e perfil de usuários  
