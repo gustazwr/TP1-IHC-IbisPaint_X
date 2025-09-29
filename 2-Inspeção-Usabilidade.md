@@ -6,6 +6,10 @@
 
 [Tabela de detecção - Francisco](https://www.notion.so/278e5c8c17aa81f59636f43d99b30d54?v=278e5c8c17aa8137a0ee000ccb3b2a92&source=copy_link)
 
+[Tabela de detecção - Gustavo](https://www.notion.so/25db90d9fcb980fab35df19c5e51549a?v=25db90d9fcb980449d45000c6de61f7a&source=copy_link)
+
+[Tabela de detecção - Júlio](https://www.notion.so/27b6b4a8653980d1a7b1de556aa90973?v=27b6b4a8653980169d88000c9babcff6&source=copy_link)
+
 
 
 
