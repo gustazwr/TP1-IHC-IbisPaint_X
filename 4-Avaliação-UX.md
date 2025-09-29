@@ -38,21 +38,22 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 ### 3.3 Gráfico de Benchmark
 
-<img width="693" height="215" alt="Captura de tela 2025-09-28 092407" src="https://github.com/user-attachments/assets/5f84a4ea-f9b0-4778-8506-8e74c9491b3b" />
+<img width="693" height="215" alt="Captura de tela 2025-09-28 092407" src="https://github.com/user-attachments/assets/5f84a4ea-f9b0-4778-8506-8e74c9491b3b" />  
 
 
 
-**Atratividade**	Avaliação negativa (média abaixo de -0,5). O sistema não foi considerado visualmente ou emocionalmente agradável.  
 
-**Transparência**	Também com avaliação negativa (média próxima de -0,75). Usuários sentiram dificuldade de entender como o sistema funciona.  
+- **Atratividade**	Avaliação negativa (média abaixo de -0,5). O sistema não foi considerado visualmente ou emocionalmente agradável.  
 
-**Eficiência**	A média é próxima de 0, indicando uma avaliação neutra (nem ruim, nem boa). O sistema cumpre a função, mas não com destaque.  
+- **Transparência**	Também com avaliação negativa (média próxima de -0,75). Usuários sentiram dificuldade de entender como o sistema funciona.  
 
-**Controle**	Avaliação levemente melhor que eficiência, mas ainda na faixa neutra. Usuários sentiram algum controle, mas não plenamente.  
+- **Eficiência**	A média é próxima de 0, indicando uma avaliação neutra (nem ruim, nem boa). O sistema cumpre a função, mas não com destaque.  
 
-**Estimulação**	A pior pontuação média (abaixo de -0,8). O sistema foi considerado pouco estimulante ou entediante.  
+- **Controle**	Avaliação levemente melhor que eficiência, mas ainda na faixa neutra. Usuários sentiram algum controle, mas não plenamente.  
 
-**Inovação**	Avaliação negativa, mas um pouco melhor que "Estimulação" e "Atratividade". O sistema não foi percebido como moderno ou inovador.  
+- **Estimulação**	A pior pontuação média (abaixo de -0,8). O sistema foi considerado pouco estimulante ou entediante.  
+
+- **Inovação**	Avaliação negativa, mas um pouco melhor que "Estimulação" e "Atratividade". O sistema não foi percebido como moderno ou inovador.  
 
 ---
 
