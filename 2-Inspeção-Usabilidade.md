@@ -10,6 +10,9 @@
 
 [Tabela de detecção - Júlio](https://www.notion.so/27b6b4a8653980d1a7b1de556aa90973?v=27b6b4a8653980169d88000c9babcff6&source=copy_link)
 
+[Tabela de detecção - Adriano](https://www.notion.so/27de5c8c17aa81bc8d0bc7b5cce1d8e7?v=27de5c8c17aa818c9942000c80258ec8&source=copy_link)
+
+
 
 
 
