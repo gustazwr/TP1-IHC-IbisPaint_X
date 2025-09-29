@@ -57,7 +57,7 @@ Após a realização das quatro avaliações (Inspeção de Usabilidade, Teste d
 
 ## 6.2 Evidências e Documentos
 - [Tabela consolidada de problemas (Google Sheets)](https://docs.google.com/spreadsheets/d/xxxxx)
-- [Resultados do SUS](https://drive.google.com/file/d/xxxxx)
+- [Resultados do SUS](https://docs.google.com/document/d/1Vt_x50wRMRllhV3yqXGkVRXyc1M2rVWOKSqrnj3p00M/edit?usp=sharing)
 - [Planilha do UEQ](https://drive.google.com/file/d/xxxxx)
 
 ## 6.3 Reflexões Individuais
