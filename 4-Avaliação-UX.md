@@ -26,7 +26,10 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 <img width="669" height="484" alt="Captura de tela 2025-09-29 192814" src="https://github.com/user-attachments/assets/941c22de-13d9-4803-ba43-88c1cfd99cb7" />
 
+- É possivel notar que majorotariamente todos os itens receberam um valor negativo com exceção de alguns que representam as escalas de eficiência, controle, inovação, indicando que essas são as unicas que podem se destacar para algo positivo.
 
+
+      
 ### 3.2 Gráfico de Médias das Escalas 
 
 <img width="407" height="240" alt="Captura de tela 2025-09-28 092526" src="https://github.com/user-attachments/assets/bc0a9dde-6c3e-4242-b9c8-29d4fb98779c" />
