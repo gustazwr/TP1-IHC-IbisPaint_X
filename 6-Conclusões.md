@@ -64,7 +64,7 @@ Após a realização das quatro avaliações (Inspeção de Usabilidade, Teste d
 Cada integrante elaborou sua reflexão pessoal.  
 Elas estão disponíveis nestes links:
 
-- [Reflexão A1](https://docs.google.com/document/d/xxxxx)
+- [Reflexão-Adriano](https://docs.google.com/document/d/1GI4OgP1LE9iFmC5BvAbaw6sdFFzJIVLSnUVfjM8lr64/edit?usp=sharing)
 - [Reflexão A2](https://docs.google.com/document/d/xxxxx)
 - [Reflexão A3](https://docs.google.com/document/d/xxxxx)
 - [Reflexão-Francisco](https://docs.google.com/document/d/1Lq6LlKj6ushTAvSgJrhjmiUSMAwkf2gF9CXuLmHcaDw/edit?usp=sharing)
