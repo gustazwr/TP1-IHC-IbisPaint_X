@@ -17,8 +17,6 @@
 Arquivo com rupturas de comunicação etiquetadas:  
 - [Planilha Etiquetagem](https://www.notion.so/27be5c8c17aa809da1c6c1af86c9b7d0?v=27be5c8c17aa80a6a32a000c6c9aa215&source=copy_link)
 
-Exemplo de evidência:
-![Print ruptura de comunicação](https://1drv.ms/i/c/49f985be54f976a2/EWpbXUNqw2JPseLB549RJSEBouwbyPI7xeXv67NI7cBGZg?e=k3fjwB)
 
 ## 5.4 Resultados
 Arquivo com frequências por etiqueta:
