@@ -141,7 +141,7 @@ Questionário SUS aplicado aos participantes logo após a conclusão das tarefas
 
   
 Score dos participantes:  
-P01- 50.0  
+P01- 50.0 
 P02- 50.0  
 P03- 40.0  
 P04- 2.5  
@@ -149,6 +149,8 @@ P05- 30.0
 P06- 22.5  
 P07- 22.5  
 P08- 30.0
+
+Média:30.9 - Usablidade baixa
 
 
 ### Perguntas Obrigatórias:
