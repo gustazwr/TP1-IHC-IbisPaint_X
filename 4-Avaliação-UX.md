@@ -62,3 +62,7 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 ## 4. Interpretação dos Resultados
 
+
+
+A avaliação de UX feita com o UEQ para o sistema Ibis Paint X concluiu majoritariamnete que o sistema possui uma UX ruim.
+
