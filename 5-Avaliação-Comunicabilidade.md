@@ -20,12 +20,9 @@ Exemplo de evidência:
 ![Print ruptura de comunicação](./5-Avaliacao-Comunicabilidade/evidencias/etiqueta1.png)
 
 ## 5.4 Resultados
-Tabela de frequências por etiqueta:
+Arquivo com frequências por etiqueta:
+[Tabela de frequências por etiqueta]()
 
-| Etiqueta    | U1 | U2 | Total | Tarefas afetadas |
-|-------------|----|----|-------|------------------|
-| Cadê?       | 5  | 3  | 8     | T2, T4           |
-| E agora?    | 2  | 4  | 6     | T3               |
 
 ## 5.5 Conclusão
 Resumo dos problemas de comunicabilidade observados e impacto para o usuário.
