@@ -101,13 +101,13 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 ## 9.RELATO DOS RESULTADOS:
 
 ### Análise Quantitativa
-Taxa de Sucessos:  
+Taxa de Sucessos:  56% por tarefa
 
-Taxa de erros:
+Taxa de erros:  1 erro por tarefa
 
-Taxa de Tempo:
+Taxa de Tempo: 203 segundos ou 3 minutos e 20 segundos por tarefa
 
-Taxa de ajuda:
+Taxa de ajuda: 0.5 por tarefa
 
 ### SUS:
 
