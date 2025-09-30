@@ -66,6 +66,11 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 [P08-TABELA](https://www.notion.so/27c6b4a8653980cfa58ffae1c417fd86?v=27c6b4a86539819793d6000c6e423598&source=copy_link)
 
 --- 
+## 7. Participantes realizando os testes
+
+
+
+---  
 
 ## 7.RESUMO POR PARTICIPANTE
 
