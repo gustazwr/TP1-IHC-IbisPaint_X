@@ -27,3 +27,14 @@ Arquivo com frequências por etiqueta:
 ## 5.5 Conclusão
 Resumo dos problemas de comunicabilidade observados e impacto para o usuário.
 
+| Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
+|-------|--------|-----------|------------------|--------------|---------------|
+| U1    | T1     | 00:32     | “Hã… não encontro salvar” | Cadê? | Botão salvar fora do viewport, usuário não encontrou facilmente. |
+| U1    | T2     | 01:15     | “E agora, pra onde vou?” | E agora? | Navegação pouco clara, sistema não indicou próximo passo. |
+| U2    | T3     | 02:10     | “O que é isso?” | O que é isto? | Ícone pouco intuitivo, usuário não entendeu sua função. |
+| U2    | T4     | 03:25     | “Ah não, assim não dá” | Assim não dá | Fluxo interrompido, sistema não permitiu ação esperada. |
+| ...   | ...    | ...       | ...              | ...          | ...           |
+
+
+
+
