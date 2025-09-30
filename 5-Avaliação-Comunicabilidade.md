@@ -31,8 +31,8 @@ Resumo dos problemas de comunicabilidade observados e impacto para o usuário.
 |-------|--------|-----------|------------------|--------------|---------------|
 | U1    | T1     | 00:16     | “onde está” | Cadê? | O usuário sabe a tarefa, mas não sabe onde fica. |
 | U1    | T1     | 01:12     | “Sinal de positivo” | Para mim está bom | O usuário acredita equivocadamente que concluiu a tarefa com sucesso. |
-| U1    | T3     | 02:10     | “O que é isso?” | O que é isto? | Ícone pouco intuitivo, usuário não entendeu sua função. |
-| U1    | T4     | 03:25     | “Ah não, assim não dá” | Assim não dá | Fluxo interrompido, sistema não permitiu ação esperada. |
+| U1    | T2     | 02:13     | “Cadê?” | O que é isso? | O usuário sabe a tarefa, mas não sabe onde fica. |
+| U1    | T2     | 02:54     | “E agora” | Proucurando | O usuario nao sabe o que fazer e procura qual o proximo passo da tarefa. |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 
 
