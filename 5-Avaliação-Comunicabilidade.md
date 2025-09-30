@@ -13,7 +13,7 @@
 
 ## 5.3 Etiquetagem
 Arquivo com rupturas de comunicação etiquetadas:  
-- [Planilha Etiquetagem](./5-Avaliacao-Comunicabilidade/etiquetagem.xlsx)
+- [Planilha Etiquetagem](https://www.notion.so/27be5c8c17aa809da1c6c1af86c9b7d0?v=27be5c8c17aa80a6a32a000c6c9aa215&source=copy_link)
 
 Exemplo de evidência:
 ![Print ruptura de comunicação](./5-Avaliacao-Comunicabilidade/evidencias/etiqueta1.png)
@@ -21,7 +21,7 @@ Exemplo de evidência:
 ## 5.4 Resultados
 Arquivo com frequências por etiqueta:
 
-[Tabela de frequências por etiqueta]()
+[Tabela de frequências por etiqueta](https://www.notion.so/27ae5c8c17aa80d59861fe4753a7601a?v=27ae5c8c17aa80449c09000c47210771&source=copy_link)
 
 
 ## 5.5 Conclusão
