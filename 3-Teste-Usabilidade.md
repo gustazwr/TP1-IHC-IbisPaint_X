@@ -43,6 +43,32 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 
 
 ## 5.Teste piloto
+ Teste piloto realizado como membros do grupo para teste de clareza de tarefas e funcionalidades testadas.
+
+ ![WhatsApp Image 2025-09-29 at 20 54 13](https://github.com/user-attachments/assets/41a61aba-e083-4ad6-897a-eac29ecdfe46)
+
+
+ Lista de tarefas antes do teste piloto:  
+Tarefa 1= Crie uma nova tela, com o tamanho 640 X 480  
+
+Tarefa 2= Mude o tipo de caneta, para a caneta "Caneta de desenho" e troque sua espessura para 10. Rabisque na tela e apague usando a borracha, após isso, anule o traço do apagador.  
+
+Tarefa 3= Usando as ferramentas de desenho, desenhe um retângulo. Crie uma nova camada e desenhe um círculo no meio do retângulo. Oculte a primeira camada.
+Tarefa 4= Exporte a imagem de melancia da galeria, crie uma nova camada  e utilize a lata de tinta para colorir o seu interior. Una as duas camadas. Guarde o desenho em formato png.  
+
+Tarefa 5= Exporte o desenho salvo anteriormente. Aplique o filtro "Aberração Cromática (Ampliação)". Coloque a Ordem das Cores para B-R-G. Insira o texto "Melancia" em qualquer posição da tela, altere o tipo de letra para "Coiny" e amplie, a deixando  no meio da tela.  
+
+Tarefa 6= Remova o fundo da imagem, usando a ferramenta "Varinha Mágica", e salve a imagem em png e transparente.  
+
+Tarefa 7= Crie uma nova tela, dessa vez na opção de animação, coloque 2 frames por segundo. Use as ferramentas de desenho e faça um retângulo. Crie mais um frame e use a ferramenta para desenhar um círculo. Crie mais um frame, utilize a régua de linha reta e faça um triângulo. Exporte a animação como vídeo. E exporte o processo de desenho (timelapse) como vídeo.  
+
+Tarefa 8= Monte uma HQ ou um mangá, usando as telas pré-formadas do app e balões de fala.  
+
+Tarefa 9= Exporte novamente a imagem da melancia e preto e branco. Clone a camada com a imagem exportada, pinte novamente a melancia, usando a varinha mágica para colorir somente o interior da melancia com o pincel. Sobreponha a camada da melancia colorida, com a camada da melancia em preto e branco.  
+
+Tarefa 10= Exporte a imagem com um rosto. Remova o fundo do rosto. Exporte a imagem da melancia colorida e sobreponha o rosto sobre a melancia. Una as duas camadas, inverta a camada na horizontal e inverta as cores da camada.  
+
+Houve mudança em alguns termos das tarefas e em objetivos.
 
 
 
