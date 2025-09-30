@@ -24,7 +24,7 @@ Arquivo com rupturas de comunicação etiquetadas:
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | U1   | T4    | ...       | ...              | ...          | ...           |
 | U2    | T1     | 00:19     | "Tem que apertar aqui?"              | "Socorro"          | Usuário não encontra o que deve ser feito           |
-| ...   | ...    | ...       | ...              | ...          | ...           |
+| U2    | T2     | 00:50     | "Caneta de desenho?              | "Cadê?          | Usuário não encocntra a opção        |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
