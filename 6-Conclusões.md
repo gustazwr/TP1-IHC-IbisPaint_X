@@ -69,6 +69,7 @@ Elas estão disponíveis nestes links:
 - [Reflexão-Thamires](https://docs.google.com/document/d/1tpRVo9OtdoE3maAYEdYdTcZWlvQZv63Ei8Bv5hIKNtM/edit?usp=sharing)
 - [Reflexão-Francisco](https://docs.google.com/document/d/1Lq6LlKj6ushTAvSgJrhjmiUSMAwkf2gF9CXuLmHcaDw/edit?usp=sharing)
 - [Reflexão-Luiz Gustavo](https://docs.google.com/document/d/18fbPAUt-BEyOk1nUSe7U6OteQ2J8yETnqG57hCq6qsY/edit?usp=sharing)
+- [Reflexão-Júlio](https://docs.google.com/document/d/14PheCa8GTDJUXw0hUebGvV8Uxh5ym9knwe-J-dDhTp0/edit?usp=sharing)
 
 ---
 
