@@ -30,7 +30,7 @@ Resumo dos problemas de comunicabilidade observados e impacto para o usuário.
 | Part. | Tarefa | Timestamp | Trecho observado | Etiqueta MAC | Interpretação |
 |-------|--------|-----------|------------------|--------------|---------------|
 | U1    | T1     | 00:16     | “onde está” | Cadê? | O usuário sabe a tarefa, mas não sabe onde fica. |
-| U1    | T2     | 01:15     | “E agora, pra onde vou?” | E agora? | Navegação pouco clara, sistema não indicou próximo passo. |
+| U1    | T1     | 01:12     | “Sinal de positivo” | Para mim está bom | O usuário acredita equivocadamente que concluiu a tarefa com sucesso. |
 | U1    | T3     | 02:10     | “O que é isso?” | O que é isto? | Ícone pouco intuitivo, usuário não entendeu sua função. |
 | U1    | T4     | 03:25     | “Ah não, assim não dá” | Assim não dá | Fluxo interrompido, sistema não permitiu ação esperada. |
 | ...   | ...    | ...       | ...              | ...          | ...           |
