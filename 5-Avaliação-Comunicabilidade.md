@@ -33,9 +33,9 @@ Resumo dos problemas de comunicabilidade observados e impacto para o usuário.
 | U1    | T1     | 01:12     | “Sinal de positivo” | Para mim está bom | O usuário acredita equivocadamente que concluiu a tarefa com sucesso. |
 | U1    | T2     | 02:13     | “Cadê?” | O que é isso? | O usuário sabe a tarefa, mas não sabe onde fica. |
 | U1    | T2     | 02:54     | “E agora” | Proucurando | O usuario nao sabe o que fazer e procura qual o proximo passo da tarefa. |
+| U1   | T3    |  3:22      | "assim mesmo"    | Vai de outro jeito | O usuario nao consegue realizar a tarefa como o projetista gostaria que ela o fizesse e segue outro caminhao |
 | ...   | ...    | ...       | ...              | ...          | ...           |
-| ...   | ...    | ...       | ...              | ...          | ...           |
-| ...   | ...    | ...       | ...              | ...          | ...           |
+| U1   | T4    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
