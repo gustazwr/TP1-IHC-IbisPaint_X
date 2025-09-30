@@ -36,7 +36,9 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 
 #### 3.2.1 Dados
 
-<img width="289" height="127" alt="Captura de tela 2025-09-28 092507" src="https://github.com/user-attachments/assets/c315223b-b0c9-4e89-8dc5-98ed875367f5" />
+<img width="289" height="127" alt="Captura de tela 2025-09-28 092507" src="https://github.com/user-attachments/assets/c315223b-b0c9-4e89-8dc5-98ed875367f5" />  
+
+- Média das esclas onde todas obtiveram avaliações negativas com exceção de controle mas todas na faixa de classificação "ruim.
 
 
 ### 3.3 Gráfico de Benchmark
@@ -67,6 +69,12 @@ O UEQ foi aplicado logo após o teste de usabilidade nos oito participantes, uti
 A avaliação de UX feita com o UEQ para o sistema Ibis Paint X concluiu majoritariamnete que o sistema possui uma UX ruim.  
 <img width="689" height="125" alt="Captura de tela 2025-09-28 092319" src="https://github.com/user-attachments/assets/1578a06b-5628-4928-9be8-98246f03ac17" />  
 
-Com todas as esclas se destacando negativamente e sendo atribuída a todas a classificação de "ruim" e estando entre os 25% piores resultados em comparação com a benchmark. Com foco nos três piores resultados que são, atratividade, tranparência e estimulação, esses que se relacionam muito ao que o usuário consegue ver e está sentindo, sendo pontos chave de mundança para o sistema dirigidos a sua interface.
+Com todas as esclas se destacando negativamente e sendo atribuída a todas a classificação de "ruim" e estando entre os 25% piores resultados em comparação com a benchmark. Com foco nos três piores resultados que são, atratividade, tranparência e estimulação, esses que se relacionam muito ao que o usuário consegue ver e está sentindo, sendo pontos chave de mundança para o sistema dirigidos a sua interface.  
+Obteve resultados melhores em eficiência, controle e inovação porém ainda péssimos. Estes mostram que em relçãoas funcionalidades do sistema que embora tenham se saído melhores na avaliação, ainda destacam sua deficiência, podendo dar a sensação que o sistema não é o mais indicado para sua função, que restringe a liberade do usuário e que não tem um diferencial em relção a outros sistemas.  
+
+
+## 4. Planilha com dados da Equipe
+
+
 
 
