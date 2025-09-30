@@ -9,7 +9,7 @@
 - Gravação da interação (tela + áudio)
 - Armazenado como vídeo privado/não listado no YouTube
 
-[Link vídeo U1](https://youtu.be/7Y8bjtgPNOA?si=1gGZoFX26rHrEx6F)  
+[Link vídeo U1](https://youtu.be/VKRwjndxzDY?si=__2hUHLLjhuPqPnE)  
 
 ## 5.3 Etiquetagem
 Arquivo com rupturas de comunicação etiquetadas:  
