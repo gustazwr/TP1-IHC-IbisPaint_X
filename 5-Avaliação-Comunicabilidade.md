@@ -10,7 +10,6 @@
 - Armazenado como vídeo privado/não listado no YouTube
 
 [Link vídeo U1](https://youtu.be/7Y8bjtgPNOA?si=1gGZoFX26rHrEx6F)  
-[Link vídeo U2](./5-Avaliacao-Comunicabilidade/videos/links.md)
 
 ## 5.3 Etiquetagem
 Arquivo com rupturas de comunicação etiquetadas:  
