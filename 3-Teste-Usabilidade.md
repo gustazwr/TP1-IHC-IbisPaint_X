@@ -68,7 +68,7 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 --- 
 ## 7. Participantes realizando os testes  
 
-![WhatsApp Image 2025-09-29 at 18 06 13](https://github.com/user-attachments/assets/763462ed-c16f-45a3-9f57-76d4eea5bae2)
+<img width="407" height="240"  src=https://github.com/user-attachments/assets/763462ed-c16f-45a3-9f57-76d4eea5bae2
 
 ![WhatsApp Image 2025-09-29 at 18 06 13 (1)](https://github.com/user-attachments/assets/48bff3dd-6006-4b5c-8341-cb4f56cab315)
 
