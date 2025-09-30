@@ -21,6 +21,7 @@ Exemplo de evidência:
 
 ## 5.4 Resultados
 Arquivo com frequências por etiqueta:
+
 [Tabela de frequências por etiqueta]()
 
 
