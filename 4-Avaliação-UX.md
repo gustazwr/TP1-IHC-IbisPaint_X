@@ -76,6 +76,6 @@ Obteve resultados melhores em eficiência, controle e inovação porém ainda p�
 
 ## 4. Planilha com dados da Equipe
 
-https://docs.google.com/spreadsheets/d/1Oj9HJ3-1yQHgZkF3Y02KBWKFWkp7TAWeKe6WDc5D8Xg/edit?usp=sharing
+[TABELA_UEQ](https://docs.google.com/spreadsheets/d/1Oj9HJ3-1yQHgZkF3Y02KBWKFWkp7TAWeKe6WDc5D8Xg/edit?usp=sharing)
 
 
