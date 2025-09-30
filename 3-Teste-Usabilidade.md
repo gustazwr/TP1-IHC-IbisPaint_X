@@ -66,7 +66,21 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 [P08-TABELA](https://www.notion.so/27c6b4a8653980cfa58ffae1c417fd86?v=27c6b4a86539819793d6000c6e423598&source=copy_link)
 
 --- 
-## 7. Participantes realizando os testes
+## 7. Participantes realizando os testes  
+
+![WhatsApp Image 2025-09-29 at 18 06 13](https://github.com/user-attachments/assets/763462ed-c16f-45a3-9f57-76d4eea5bae2)
+
+![WhatsApp Image 2025-09-29 at 18 06 13 (1)](https://github.com/user-attachments/assets/48bff3dd-6006-4b5c-8341-cb4f56cab315)
+
+![WhatsApp Image 2025-09-29 at 18 06 13 (2)](https://github.com/user-attachments/assets/30af50e5-3a2e-4fe3-a431-146a7b18f65d)
+
+![WhatsApp Image 2025-09-29 at 18 06 14](https://github.com/user-attachments/assets/00e85a1a-d5dc-452c-a771-61ffd8764fd5)
+
+![WhatsApp Image 2025-09-29 at 18 06 14 (1)](https://github.com/user-attachments/assets/3b313527-ce20-4835-be09-1c12a053c659)
+
+![WhatsApp Image 2025-09-29 at 18 06 14 (2)](https://github.com/user-attachments/assets/2ef144c9-8348-4dc4-84c6-5cf2992458b7)
+
+![WhatsApp Image 2025-09-29 at 18 06 14 (3)](https://github.com/user-attachments/assets/7624970f-2a07-4ad4-b40e-84b14732e930)  
 
 
 
