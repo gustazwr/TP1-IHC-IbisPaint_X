@@ -23,12 +23,12 @@ Arquivo com rupturas de comunicação etiquetadas:
 | U1   | T3    |  3:22      | "assim mesmo"    | Vai de outro jeito | O usuario nao consegue realizar a tarefa como o projetista gostaria que ela o fizesse e segue outro caminhao |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | U1   | T4    | ...       | ...              | ...          | ...           |
+| U2    | T1     | 00:19     | "Tem que apertar aqui?"              | "Socorro"          | Usuário não encontra o que deve ser feito           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
 | ...   | ...    | ...       | ...              | ...          | ...           |
-| ...   | ...    | ...       | ...              | ...          | ...           |
-| ...   | ...    | ...       | ...              | ...          | ...           | teste
+| ...   | ...    | ...       | ...              | ...          | ...           | 
 
 
 
