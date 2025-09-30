@@ -45,7 +45,7 @@ Tarefa 10: Importe a imagem com um rosto. Remova o fundo da imagem do rosto com 
 ## 5.Teste piloto
  Teste piloto realizado como membros do grupo para teste de clareza de tarefas e funcionalidades testadas.
 
- ![WhatsApp Image 2025-09-29 at 20 54 13](https://github.com/user-attachments/assets/41a61aba-e083-4ad6-897a-eac29ecdfe46)
+<img width="700" height="500"  src="https://github.com/user-attachments/assets/41a61aba-e083-4ad6-897a-eac29ecdfe46">
 
 
  Lista de tarefas antes do teste piloto:  
