@@ -11,6 +11,8 @@
 
 [Link vídeo U1](https://youtu.be/VKRwjndxzDY?si=__2hUHLLjhuPqPnE)  
 
+[Link vídeo U2](https://youtu.be/MoXORlaJpKA?si=6UfzD4IfHmk41NC7)
+
 ## 5.3 Etiquetagem
 Arquivo com rupturas de comunicação etiquetadas:  
 - [Planilha Etiquetagem](https://www.notion.so/27be5c8c17aa809da1c6c1af86c9b7d0?v=27be5c8c17aa80a6a32a000c6c9aa215&source=copy_link)
